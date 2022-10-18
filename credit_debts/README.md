@@ -29,7 +29,6 @@
 
 # Используемые библиотеки
 
-pandas
+- pandas
 
-
-matplotlib
+- matplotlib
